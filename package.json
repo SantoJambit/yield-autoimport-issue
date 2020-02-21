@@ -1,0 +1,15 @@
+{
+  "name": "yield-autoimport-issue",
+  "version": "0.0.1",
+  "files": [],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "redux-saga": "1.1.3"
+  },
+  "devDependencies": {
+    "typescript": "3.8.2"
+  },
+  "app": "src/index.html"
+}
